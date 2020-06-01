@@ -1,7 +1,13 @@
 {
     "port": 3000,
-    "address": "localhost",
+    "address": "https://efab041f-b65e-4d77-98b7-e3be98b3dd29.ws-us02.gitpod.io",
     "editor": "gitpod",
+    "configPath": {
+        "config": "bc.json",
+        "base": ".breathecode",
+        "exercises": "./exercises",
+        "output": ".breathecode/dist"
+    },
     "outputPath": "./.breathecode/dist",
     "publicPath": "/preview",
     "grading": "isolated",
@@ -26,119 +32,148 @@
             "path": "exercises/00-Welcome",
             "translations": [
                 "us"
-            ]
+            ],
+            "graded": false
         },
         {
             "slug": "01-hello-world",
             "title": "01-hello-world",
+            "done": true,
             "path": "exercises/01-hello-world",
             "translations": [
                 "us"
-            ]
+            ],
+            "graded": true
         },
         {
             "slug": "02-Select-DOM-Element",
             "title": "02-Select-DOM-Element",
+            "done": true,
             "path": "exercises/02-Select-DOM-Element",
             "translations": [
                 "us"
-            ]
+            ],
+            "graded": true
         },
         {
             "slug": "03-Change-Div-Background",
             "title": "03-Change-Div-Background",
+            "done": true,
             "path": "exercises/03-Change-Div-Background",
             "translations": [
                 "us"
-            ]
+            ],
+            "graded": true
         },
         {
             "slug": "04-Move-DOM-Element",
             "title": "04-Move-DOM-Element",
+            "done": true,
             "path": "exercises/04-Move-DOM-Element",
             "translations": [
                 "us"
-            ]
+            ],
+            "graded": true
         },
         {
             "slug": "05-Create-DOM-Element-First",
             "title": "05-Create-DOM-Element-First",
+            "done": true,
             "path": "exercises/05-Create-DOM-Element-First",
             "translations": [
                 "us"
-            ]
+            ],
+            "graded": true
         },
         {
             "slug": "06-Create-DOM-Element-Second",
             "title": "06-Create-DOM-Element-Second",
+            "done": true,
             "path": "exercises/06-Create-DOM-Element-Second",
             "translations": [
                 "us"
-            ]
+            ],
+            "graded": true
         },
         {
             "slug": "07-Create-DOM-list-of-li",
             "title": "07-Create-DOM-list-of-li",
+            "done": true,
             "path": "exercises/07-Create-DOM-list-of-li",
             "translations": [
                 "us"
-            ]
+            ],
+            "graded": true
         },
         {
             "slug": "08-Remove-DOM-Element-part-one",
             "title": "08-Remove-DOM-Element-part-one",
+            "done": true,
             "path": "exercises/08-Remove-DOM-Element-part-one",
             "translations": [
                 "us"
-            ]
+            ],
+            "graded": true
         },
         {
             "slug": "09-Remove-DOM-Element-part-two",
             "title": "09-Remove-DOM-Element-part-two",
+            "done": true,
             "path": "exercises/09-Remove-DOM-Element-part-two",
             "translations": [
                 "us"
-            ]
+            ],
+            "graded": true
         },
         {
             "slug": "10-Render-on-Click",
             "title": "10-Render-on-Click",
+            "done": true,
             "path": "exercises/10-Render-on-Click",
             "translations": [
                 "us"
-            ]
+            ],
+            "graded": true
         },
         {
             "slug": "11-Add-LI-on-Click",
             "title": "11-Add-LI-on-Click",
+            "done": true,
             "path": "exercises/11-Add-LI-on-Click",
             "translations": [
                 "us"
-            ]
+            ],
+            "graded": true
         },
         {
             "slug": "12-Dynamic-HTML-String",
             "title": "12-Dynamic-HTML-String",
+            "done": true,
             "path": "exercises/12-Dynamic-HTML-String",
             "translations": [
                 "us"
-            ]
+            ],
+            "graded": true
         },
         {
             "slug": "13-Add-Options-to-the-Select",
             "title": "13-Add-Options-to-the-Select",
+            "done": true,
             "path": "exercises/13-Add-Options-to-the-Select",
             "translations": [
                 "us"
-            ]
+            ],
+            "graded": true
         },
         {
             "slug": "14-Todo-List",
             "title": "14-Todo-List",
+            "done": true,
             "path": "exercises/14-Todo-List",
             "translations": [
                 "us"
-            ]
+            ],
+            "graded": true
         }
     ]
 }
